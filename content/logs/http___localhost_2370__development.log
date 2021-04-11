@@ -1,0 +1,42 @@
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: posts","time":"2021-04-11T19:46:31.685Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: posts_meta","time":"2021-04-11T19:46:31.697Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: users","time":"2021-04-11T19:46:31.705Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: posts_authors","time":"2021-04-11T19:46:31.717Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: roles","time":"2021-04-11T19:46:31.722Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: roles_users","time":"2021-04-11T19:46:31.730Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: permissions","time":"2021-04-11T19:46:31.734Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: permissions_users","time":"2021-04-11T19:46:31.742Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: permissions_roles","time":"2021-04-11T19:46:31.747Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: permissions_apps","time":"2021-04-11T19:46:31.752Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: settings","time":"2021-04-11T19:46:31.757Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: tags","time":"2021-04-11T19:46:31.765Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: posts_tags","time":"2021-04-11T19:46:31.774Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: apps","time":"2021-04-11T19:46:31.779Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: app_settings","time":"2021-04-11T19:46:31.792Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: app_fields","time":"2021-04-11T19:46:31.798Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: invites","time":"2021-04-11T19:46:31.802Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: brute","time":"2021-04-11T19:46:31.811Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: webhooks","time":"2021-04-11T19:46:31.816Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: sessions","time":"2021-04-11T19:46:31.820Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: integrations","time":"2021-04-11T19:46:31.828Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: api_keys","time":"2021-04-11T19:46:31.835Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2021-04-11T19:46:31.844Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: members","time":"2021-04-11T19:46:31.850Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: members_stripe_customers","time":"2021-04-11T19:46:31.860Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2021-04-11T19:46:31.863Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: actions","time":"2021-04-11T19:46:31.870Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Creating table: emails","time":"2021-04-11T19:46:31.876Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Model: Tag","time":"2021-04-11T19:46:31.891Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Model: Role","time":"2021-04-11T19:46:31.907Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Model: Permission","time":"2021-04-11T19:46:31.934Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Model: User","time":"2021-04-11T19:46:32.105Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Model: Post","time":"2021-04-11T19:46:32.696Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Model: Integration","time":"2021-04-11T19:46:32.866Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Relation: Role to Permission","time":"2021-04-11T19:46:32.896Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Relation: Post to Tag","time":"2021-04-11T19:46:33.092Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Relation: User to Role","time":"2021-04-11T19:46:33.112Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Ghost is running in development...","time":"2021-04-11T19:46:34.374Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Listening on: 127.0.0.1:2370","time":"2021-04-11T19:46:34.375Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Url configured as: http://localhost:2370/","time":"2021-04-11T19:46:34.375Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Ctrl+C to shut down","time":"2021-04-11T19:46:34.376Z","v":0}
+{"name":"Log","hostname":"test-pc-miso","pid":20711,"level":30,"msg":"Ghost boot 3.368s","time":"2021-04-11T19:46:34.377Z","v":0}
